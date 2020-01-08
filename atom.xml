@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vegetable Chai&#39;s Blog</title>
+  
+  <subtitle>菜夹膜の料理博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ikenway.net/"/>
+  <updated>2020-01-08T15:51:51.154Z</updated>
+  <id>https://ikenway.net/</id>
+  
+  <author>
+    <name>Vegetable Chai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New Beginning</title>
+    <link href="https://ikenway.net/2020/01/08/New-Beginning/"/>
+    <id>https://ikenway.net/2020/01/08/New-Beginning/</id>
+    <published>2020-01-08T15:31:06.000Z</published>
+    <updated>2020-01-08T15:51:51.154Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="New-Beginning-新开始"><a href="#New-Beginning-新开始" class="headerlink" title="New Beginning - 新开始"></a>New Beginning - 新开始</h1><h6 id="本人姓菜名夹膜，人送外号阿膜，是个鸽子（不是），在读弱鸡大二学生，性感二次元在线呐呐呐"><a href="#本人姓菜名夹膜，人送外号阿膜，是个鸽子（不是），在读弱鸡大二学生，性感二次元在线呐呐呐" class="headerlink" title="本人姓菜名夹膜，人送外号阿膜，是个鸽子（不是），在读弱鸡大二学生，性感二次元在线呐呐呐"></a>本人姓菜名夹膜，人送外号阿膜，是个鸽子（不是），在读弱鸡大二学生，性感二次元在线呐呐呐</h6><p><del>第一次有了能写的博客，有了能写一辈子文章的博客，两件快乐事情重合在一起。而这两份快乐，又给我带来更多的快乐。得到的，本该是像梦境一般幸福的时间……但是，为什么，会变成这样呢……</del></p><p>其实之前是搭过几次博客的，但是由于各种各样的原因<del>（比如懒）</del>全都不了了之，即使买了域名也没有激起我撸博客的欲望，如今也不知道为什么，重新拾起了博客。</p><p>近况由于也有很多事情要做，所以博客也大概率不会更得很勤奋（咕咕咕），这东西他随缘。</p><p>之前想过要写一篇饥荒服务器的搭建教程（实在是太繁琐了），还有Windows Terminal的编译教程（已失去时效），全都被我咕掉了，所以以后还会再写些什么呢，暂时还没有想法，毕竟人还是菜的很，一切随缘。</p><p>那么，期待下次再会吧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;New-Beginning-新开始&quot;&gt;&lt;a href=&quot;#New-Beginning-新开始&quot; class=&quot;headerlink&quot; title=&quot;New Beginning - 新开始&quot;&gt;&lt;/a&gt;New Beginning - 新开始&lt;/h1&gt;&lt;h6 id=&quot;本
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日常" scheme="https://ikenway.net/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ikenway.net/2020/01/04/hello-world/"/>
+    <id>https://ikenway.net/2020/01/04/hello-world/</id>
+    <published>2020-01-04T10:56:49.126Z</published>
+    <updated>2020-01-04T10:56:49.126Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
